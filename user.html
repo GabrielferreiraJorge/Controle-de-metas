@@ -1,0 +1,52 @@
+<!--Inicio Código HTML-->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meus objetivos para 2024</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Meus objetivos para 2024<span>_</span></h1>
+  </header>
+  <!--Sessão de botões, para fazer linkagem dos arquivos HTML-->
+    <section class="botoes">
+      <a href="index.html" class="botao">Inicio</a>
+      <a href="curso-alura.html" class="botao">Curso Alura</a>
+      <a href="projeto-javascript.html" class="botao">Projeto JavaScript</a>
+      <a href="portfolio.html" class="botao">Portfólio</a>
+      <a href="curriculo.html" class="botao">Currículo</a>
+      <a href="user.html" class="botao"><span>Sua Vez</span></a>
+    </section>
+     <!--DIV's para a estilização da página, a CLASS defini o estilo do contúdo-->
+    <div class="abas">
+      <div class="conteúdo-abas">
+        <!--Dentro desta DIV em especial, temos o acionamento de outras funções, que geram uma interação com o usuário.
+        Com Inputs e Buttons, que recebem e retornam as informações dentro do JavaScript-->
+        <h1>Sua Vez<span>_</span></h1>
+        <p>Agora é a sua vez de definir um objetivo e a data que você deseja alcançá-lo e ver quanto tempo falta até lá.</p>
+        <label for="meta">Defina sua Meta:</label>
+        <input type="text" id="meta" name="meta">
+        <br>
+        <label for="tempo">Defina o Tempo Limite para isso:</label>
+        <input type="date" id="tempo" name="tempo">
+        <input type="button" value="Calcular Contagem" onclick="usercalctemp()">
+        <!--Nesta DIV tem-se a definição de ID's para aparição e estilização do contador.
+        Também é utilizado pra o acinamento da função calculaTempo() e sua cadeia de funcionamento.-->
+        <div id="cont5">
+          <p class="cdn" id="dias0"></p>
+          <p class="cdt"></p>
+          <p class="cdn" id="horas0"></p>
+          <p class="cdt"></p>
+          <p class="cdn" id="min0"></p>
+          <p class="cdt"></p>
+          <p class="cdn" id="seg0"></p>
+          <p class="cdt"></p>
+        </div>
+      </div>
+    </div>
+  <script src="script.js"></script>
+</body>
+</html>
