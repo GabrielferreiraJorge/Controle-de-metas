@@ -84,21 +84,21 @@
 
 ## Funcionamento
 
-<p>O funcionamento do site pe simples, ele opera através de botôes que altera entre as páginas do site, onde o resultado mostrado é a contagem regressiva do tempo até o alvance das minhas metas, onde você recebe uma breve descrição do que se trata aquela meta, ou qual é a meta naquela aba, e visualiza o contador do tempo, que opera em contante atualização para atualizar o tempo restante.</p>
+<p>O funcionamento do site é simples, ele opera através de botões que alteram entre as páginas do site, onde o resultado mostrado é a contagem regressiva do tempo até o alcance das minhas metas, onde você recebe uma breve descrição do que se trata aquela meta, ou qual é a meta naquela aba, e visualiza o contador do tempo, que opera em constante atualização para atualizar o tempo restante.</p>
 
 - Navegação por Clicks;
 - Mudança de abas por Botões;
 - Vizualização;
 > Metas e Contador Regressivo
-- Interação Usuario;
-> Definição de uma meta e data de alcance para ela, retornando a vizualizalção de quanto tempo falta até lá.
+- Interação com Usuario;
+> Definição de uma meta e data de alcance para ela, retornando a visualização de quanto tempo falta até lá.
 
 <hr>
 
 ## Acesso
 
 <p>Tá esperando o que ?! Veja e teste da maneira que achar melhor, acesse o site por https://gabrielferreirajorge.github.io/Controle-de-metas/, e navegue do jeito que achar melhor, se tiver alguma ideia de algo que possa ser melhorado não hesite em falar, ainda estou aprendendo e querendo melhorar então sinta-se a vontade para dar opiniões.</p>
-<p>Caso tenha alguma dúvida com relação de quais foram meus códigos, tenho eles disponibilizados no repositório:</p>
+<p>Caso tenha alguma dúvida com relação de quais foram meus códigos, tenho eles disponiveis no repositório:</p>
 
 - CSS:
 > https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/style.css
