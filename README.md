@@ -2,9 +2,9 @@
 > Gabriel Ferreira Jorge, aluno do Colégio Civico Militar Júlio Mesquita, atualmente cursando o 3º Ano na área de exatas.
 
 ## Descrição
-<p>Este é um projeto desenvolvido em conjunto com o Curso Alura, sendo o professor Marcelo Paludetto Rodrigues. Neste projeto temos o objetivo de estipularmos uma data limite para o alcance de meta, e quanto tempo nos resta até este objetivo.<br>
-Estas metas foram estipuladas ao longo da Matéria de Projeto de Vida. Entretanto, como já tenho um conhecimento na área de programação opitei por desenvolver minha própria versão deste trabalho. <br>
-O desenvolvimento inicial do projeto envolvia somente definir uma data limite de alcance para as metas e um contador que mostraria a contagem regressiva até aquela meta, com divisões simples dentro de um único arquivo HTML, o resultado deveria ter ficado assim:</p>
+<p>Este é um projeto desenvolvido com o objetivo de estipularmos uma data limite para o alcance de metas, retornando quanto tempo nos resta até este objetivo, tais objetivos foram estipulados em conjunto com a matéria de Projeto de Vida.<br> 
+<p>Entretanto, por já ter uma base na área de programação optei por desenvolver minha própria versão deste trabalho.</p>
+<p>Como já informado, o desenvolvimento inicial do projeto envolvia definir uma meta e a sua data limite de alcance, onde teriamos um contador que mostraria a contagem regressiva até aquela meta, tendo as divisões dentro de UM arquivo HTML, sendo o resultado esperado este:</p>
 
 <img src = "Captura de tela 2024-02-22 172230.png">
 
@@ -24,9 +24,9 @@ O desenvolvimento inicial do projeto envolvia somente definir uma data limite de
       <a href="user.html" class="botao">Sua Vez</a>
     </section>
 > Logo, com este bloco de códigos temos a primeira interação com o usuario onde ele é capaz de navegar pela página. 
-> Nesta sessão tambem temos a aplicação da estilização dos botões, resultando no seguinte:
+> Nesta sessão tambem temos a aplicação da estilização dos botões, resultando o seguinte:
 
-<img>
+<img src=https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/Captura%20de%20tela%202024-02-28%20153122.png>
 
 <p>Uma segunda alteração é que eu adicionei mais um tipo de interação com o usuario, onde ele pode definir uma meta e a sua data de alcance e vizualisar quanto tempo falta até aquele objetivo. Para isto foi-se criada uma função separada. </p>
 
@@ -97,4 +97,22 @@ O desenvolvimento inicial do projeto envolvia somente definir uma data limite de
 
 ## Acesso
 
-<p>Tá esperando o que ?! Veja e teste da maneira que achar melhor, acesse o site por https://gabrielferreirajorge.github.io/Controle-de-metas/, navegue do jeito que achar melhor, e se tiver alguma ideia de algo que possa ser melhorado não hesite, ainda estou aprendendo e quero melhorar então sinta-se a vontade para dar opiniões.</p>
+<p>Tá esperando o que ?! Veja e teste da maneira que achar melhor, acesse o site por https://gabrielferreirajorge.github.io/Controle-de-metas/, e navegue do jeito que achar melhor, se tiver alguma ideia de algo que possa ser melhorado não hesite em falar, ainda estou aprendendo e querendo melhorar então sinta-se a vontade para dar opiniões.</p>
+<p>Caso tenha alguma dúvida com relação de quais foram meus códigos, tenho eles disponibilizados no repositório:</p>
+
+- CSS:
+> https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/style.css
+- JAVASCRIPT:
+> https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/script.js
+- HTML:
+> [inicio] https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/index.html;<br>
+> [curso-alura] https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/curso-alura.html;<br>
+> [projeto-javascript] https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/projeto-javascript.html;<br>
+> [intercambio] https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/intercambio.html;<br>
+> [curriculo] https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/curriculo.html;<br>
+> [sua-vez] https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/user.html<br>
+
+<hr>
+
+## Créditos
+<p>Este trabalho é resultado do curso oferecido pela Alura e pelo professor Marcelo Paludetto Rodrigues, com o objetivo de revisar alguns conceitos de HTML, CSS e JAVASCRIPT. Os códigos da minha versão se basearam nos conhecimentos divulgados no curso e na tutelagem do professor Wesley nas aulas presenciais. </p>
